@@ -98,11 +98,7 @@ https://users.iee.ihu.gr/~iee2019160/plakwto/
 ## Συντελεστές
 
 
-Συγγιρίδης Δημήτριος 2019160: Jquerry,JS,PHP API,SQL,CSS
-
-Λεωνίδας Αποστολίδης 2019007: Jquerry,JS,PHP API,SQL,CSS
-
-Στέλιος Τριανταφυλλίδης 2019171: JS,jquerry
+Συγγιρίδης Δημήτριος 
 
 
 # Περιγραφή API
