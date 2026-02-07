@@ -52,7 +52,7 @@ https://users.iee.ihu.gr/~iee2019160/plakwto/
 ## Οδηγίες Εγκατάστασης
 
  * Κάντε clone το project σε κάποιον φάκελο <br/>
-  `$ git clone https://github.com/iee-ihu-gr-course1941/ADISE25_kotopla.git`
+  `$ git clone https://github.com/dimitriossyngiridis/backgammon_plakwto.git`
 
 
  * Βεβαιωθείτε ότι ο φάκελος είναι προσβάσιμος από τον Apache Server. πιθανόν να χρειαστεί να καθορίσετε τις παρακάτω ρυθμίσεις.
