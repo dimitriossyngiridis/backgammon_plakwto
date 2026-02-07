@@ -1,4 +1,4 @@
-# ADISE25_kotopla
+# Backgammon_plakwto
 Table of Contents
 =================
    * [Εγκατάσταση](#εγκατάσταση)
